@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+#contenedor{
+    width: 80%;
+    height: 200px;
+    background: gray;
+    margin: auto;
+}
+#caja1{
+    width: 30%;
+    height: 200px;
+    background-color: black;
+    float: left;
+    border: 8px solid blue;
+}
+#caja2{
+    width: 70%;
+    height: 200px;
+    background-color: orange;
+    padding: 10px;
+    border: 8px solid red;
+    float: left;
+}
